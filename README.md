@@ -1,7 +1,6 @@
 ## Hey!
 
-Ich baue mass­geschnei­derte Software­lösungen fürs Internet.\
-Websites, Apps und Datenverwaltungs­systeme jeder Art.
+Fractional CTO, product builds and senior reinforcement for startups without a technical co-founder.\
+TypeScript, front to back.
 
-Mehr Infos gibts hier:\
-<a href="https://www.wehrli.me/" target="_blank">https://www.wehrli.me/</a>
+<a href="https://www.katalyze.ch/" target="_blank">https://www.katalyze.ch/</a>
